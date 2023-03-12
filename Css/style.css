@@ -9,7 +9,9 @@
     background-color:#20262E;
     margin-bottom: 50px;
 }
+
 ul{
+    display: inline-block;
     display: inline-block;
     vertical-align: top;
     margin-right: 15%;
